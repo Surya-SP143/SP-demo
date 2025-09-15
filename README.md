@@ -1,4 +1,4 @@
 # SP-demo
 This is my first Git Repository.
 <br>
-Author-Surya Das Mahanta
+Author-Surya Das Mahanta(Diploma in CST)
